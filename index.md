@@ -33,6 +33,7 @@ The next intended article will be noted at the bottom of the page though.
 
 ### Part D: Templates
 1. [Templates](Chapter1/D1.md)
+2. [Idiom 2: SFINAE](Chapter1/D2.md)
 
 ### Part E: Exceptions
 1. [Exceptions](Chapter1/E1.md)
@@ -46,9 +47,6 @@ The next intended article will be noted at the bottom of the page though.
 
 ## Chapter 4: Multithreading
 
-## Chapter 5: Random Number Generation
-
-## Chapter 6: Time
 
 # Order of Recommended Reading:
 1.  0-A1 What Code Even Is
@@ -62,4 +60,8 @@ The next intended article will be noted at the bottom of the page though.
 9.  1-A4 Control Structures
 10. 1-B2 Inheritance
 11. 3-A1 New/Delete and Allocators
-11. 1-B3 Idiom 1: RAII
+12. 1-B3 Idiom 1: RAII
+13. 1-E1 Exceptions
+14. 1-E2 Exception Safety
+15. 1-D1 Templates
+16. 1-D2 Idiom 2: SFINAE
